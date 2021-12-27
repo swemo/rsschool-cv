@@ -1,0 +1,22 @@
+.raspolojenie  {font-family: "Arial", sans-serif;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 700;
+    text-align: center;
+    color: #333333;}
+             nav {
+                width: 960px;
+                margin: 0 auto;
+                text-align: center;
+            }
+            nav ul {
+                display: inline-block;
+            }
+            nav li {
+                float:left;
+            }
+            .content {
+                max-width: 900px;
+                margin: 0px auto;
+                }
