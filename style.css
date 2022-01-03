@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+  }
 .raspolojenie  {font-family: "Arial", sans-serif;
     font-style: normal;
     font-size: 13px;
@@ -20,3 +23,8 @@
                 max-width: 900px;
                 margin: 0px auto;
                 }
+.body {
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
